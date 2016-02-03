@@ -71,10 +71,12 @@ main {
   height: 60%;
   margin: auto;
   position: relative;
+  text-align: center;
 }
 
-.img-block p {
-  font-size: x-large;
+.img-block img {
+  height: 100%;
+  margin: auto;
 }
 
 footer {
